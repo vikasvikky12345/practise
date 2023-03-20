@@ -2,8 +2,15 @@
 hobbies:
 playing volleyball
 listening music
+
+
 known laungages:
 pyhton
 java
-javascript
+javascripti
+
+i have a bike
+i have a car
+
+
 
